@@ -23,6 +23,10 @@ Removes this tool and copies build dependencies, configuration files and scripts
 
 ==> firebase deploy
 
+
+Project Console: https://console.firebase.google.com/project/greatgatsbyapp/overview
+Hosting URL: https://greatgatsbyapp.firebaseapp.com
+
 ## Steps
 
 ==> npx create-react-app greatgatsby
