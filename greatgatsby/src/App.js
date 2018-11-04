@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {init as firebaseInit} from 'javascripts/firebase'
+import {init as firebaseInit} from 'javascript/firebase'
 import "tabler-react/dist/Tabler.css";
 import { Card, Button } from "tabler-react";
 class App extends Component {
