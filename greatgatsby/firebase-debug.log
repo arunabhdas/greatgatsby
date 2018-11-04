@@ -1,0 +1,42 @@
+[debug] [2018-11-04T05:09:55.331Z] ----------------------------------------------------------------------
+[debug] [2018-11-04T05:09:55.334Z] Command:       /usr/local/Cellar/node/10.9.0/bin/node /usr/local/bin/firebase init
+[debug] [2018-11-04T05:09:55.334Z] CLI Version:   5.0.1
+[debug] [2018-11-04T05:09:55.334Z] Platform:      darwin
+[debug] [2018-11-04T05:09:55.334Z] Node Version:  v10.9.0
+[debug] [2018-11-04T05:09:55.335Z] Time:          Sun Nov 04 2018 01:09:55 GMT-0400 (Eastern Daylight Time)
+[debug] [2018-11-04T05:09:55.335Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-11-04T05:09:55.353Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-11-04T05:09:55.354Z] > authorizing via signed-in user
+[info] 
+     🔥🔥🔥🔥🔥🔥🔥🔥 🔥🔥🔥🔥 🔥🔥🔥🔥🔥🔥🔥🔥  🔥🔥🔥🔥🔥🔥🔥🔥 🔥🔥🔥🔥🔥🔥🔥🔥     🔥🔥🔥     🔥🔥🔥🔥🔥🔥  🔥🔥🔥🔥🔥🔥🔥🔥
+     🔥🔥        🔥🔥  🔥🔥     🔥🔥 🔥🔥       🔥🔥     🔥🔥  🔥🔥   🔥🔥  🔥🔥       🔥🔥
+     🔥🔥🔥🔥🔥🔥    🔥🔥  🔥🔥🔥🔥🔥🔥🔥🔥  🔥🔥🔥🔥🔥🔥   🔥🔥🔥🔥🔥🔥🔥🔥  🔥🔥🔥🔥🔥🔥🔥🔥🔥  🔥🔥🔥🔥🔥🔥  🔥🔥🔥🔥🔥🔥
+     🔥🔥        🔥🔥  🔥🔥    🔥🔥  🔥🔥       🔥🔥     🔥🔥 🔥🔥     🔥🔥       🔥🔥 🔥🔥
+     🔥🔥       🔥🔥🔥🔥 🔥🔥     🔥🔥 🔥🔥🔥🔥🔥🔥🔥🔥 🔥🔥🔥🔥🔥🔥🔥🔥  🔥🔥     🔥🔥  🔥🔥🔥🔥🔥🔥  🔥🔥🔥🔥🔥🔥🔥🔥
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/das/repos/ad/githubrepos/greatgatsby/greatgatsby
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2018-11-04T05:10:00.947Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2018-11-04T05:10:00.948Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2018-11-04T05:10:01.096Z] <<< HTTP RESPONSE 200
+[debug] [2018-11-04T05:10:01.134Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ 
+[debug] [2018-11-04T05:10:01.703Z] <<< HTTP RESPONSE 200
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
