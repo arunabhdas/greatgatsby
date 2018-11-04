@@ -3,16 +3,14 @@
 
 ## Dev
 
-==> gatsby develop
+==> yarn start
 
 ## Deploy
 
 
 ## Steps
 
-==> npm install --global gatsby-cli
-
-==> gatsby new greatgatsby https://github.com/gatsbyjs/gatsby-starter-hello-world
+==> npx create-react-app greatgatsby
 
 
 ==> yarn add tabler-react
